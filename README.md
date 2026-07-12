@@ -2,9 +2,9 @@
 
 ### About me:
 
-I’m a Full-Stack MERN Developer with 2 years of experience building scalable applications, alongside a strong background in freelance motion design and music production. While my core expertise lies in architecting robust web applications, I am equally passionate about digital design, video editing, and audio development.
+I’m a Full-Stack MERN Developer with 0.5 year of experience building scalable applications, alongside a strong background in freelance motion design and music production. While my core expertise lies in architecting robust web applications, I am equally passionate about digital design, video editing, and audio development.
 
-**Technical Core & Web Development:** Specialized in MongoDB, Express, React, and Node.js. I have experience building dynamic, responsive frontends and managing reliable backend architectures.
+**Technical Core & Web Development:** Doing Specialization in MongoDB, Express, React, and Node.js. I have experience building dynamic, responsive frontends and managing reliable backend architectures.
 
 **Creative & Digital Design:** Skilled in motion graphics, video editing, and digital design. I regularly create engaging content, UI/UX mockups, and layouts for social media and portfolios.
 
